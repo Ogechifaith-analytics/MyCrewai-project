@@ -1,22 +1,31 @@
 # 🚀 AI Job Applications with CrewAI Multi-Agent System
 An AI-powered job application assistant using CrewAI, LangChain, and Python automation
-📌 GitHub Portfolio: Ogechifaith-analytics
 
 ## 🔹 Overview
 ### This project leverages CrewAI, LangChain, and Python to automate the job application process. The AI-driven system extracts job descriptions, optimizes resumes, drafts cover letters, and prepares you foro interview with tailored made questions, fit for your career.
 
 ## 🛠️ Key Features
+
 ✔️ Multi-Agent AI System: Uses CrewAI for task delegation.
+
 ✔️ Resume Optimization: Aligns your resume with job requirements.
+
 ✔️ Cover Letter Generation: Auto-generates professional cover letters.
+
 ✔️ Job Matching: Uses NLP to analyze job descriptions.
 
 ## 📌 Technologies Used
+
 Python 🐍
+
 CrewAI 🤖
+
 LangChain 🔗
+
 OpenAI API 💬
+
 BeautifulSoup & Search API 🌍 (for job scraping)
+
 Pandas & NumPy 📊 (for data processing)
 
 # 💻 Installation & Usage
@@ -26,6 +35,7 @@ Pandas & NumPy 📊 (for data processing)
 **Clone this repository:**
 
 git clone https://github.com/your-username/crewai-job-application-ai.git
+
 cd crewai-job-application-ai
 
 **Install dependencies:**
