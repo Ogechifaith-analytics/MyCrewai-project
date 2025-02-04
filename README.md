@@ -1,4 +1,4 @@
-# 🚀 AI Job Applications with CrewAI Multi-Agent System
+# 🚀 CrewAI Job Application AI
 An AI-powered job application assistant using CrewAI, LangChain, and Python automation
 
 ## 🔹 Overview
