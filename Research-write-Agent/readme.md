@@ -11,7 +11,7 @@ An AI-powered multi-agent system built with Python and CrewAI to automate the co
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The Research Write Agent leverages the CrewAI framework to create a multi-agent system that streamlines content planning and editing. The system involves three primary agents:
