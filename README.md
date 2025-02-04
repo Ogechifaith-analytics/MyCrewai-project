@@ -34,9 +34,9 @@ Pandas & NumPy 📊 (for data processing)
 
 **Clone this repository:**
 
-git clone https://github.com/your-username/crewai-job-application-ai.git
+git clone https://github.com/Ogechifaith-analytics/MyCrewai-project.git
 
-cd crewai-job-application-ai
+cd MyCrewai-project
 
 **Install dependencies:**
 
