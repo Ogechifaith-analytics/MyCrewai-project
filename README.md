@@ -1,18 +1,6 @@
-# 🚀 CrewAI Job Application AI
-An AI-powered job application assistant using CrewAI, LangChain, and Python automation
+# 🚀 MyCrewAI Project
+A collection of  AI-powered applications using CrewAI, LangChain, and Python automation.
 
-## 🔹 Overview
-### This project leverages CrewAI, LangChain, and Python to automate the job application process. The AI-driven system extracts job descriptions, optimizes resumes, drafts cover letters, and prepares you foro interview with tailored made questions, fit for your career.
-
-## 🛠️ Key Features
-
-✔️ Multi-Agent AI System: Uses CrewAI for task delegation.
-
-✔️ Resume Optimization: Aligns your resume with job requirements.
-
-✔️ Cover Letter Generation: Auto-generates professional cover letters.
-
-✔️ Job Matching: Uses NLP to analyze job descriptions.
 
 ## 📌 Technologies Used
 
@@ -51,14 +39,4 @@ To start the automation:
 
 python main.py
 
-## 🛠️ Future Enhancements
-🚀 Automated applications submission seamlessly.
-🚀 Automated Email Follow-ups
-🚀 Enhanced Resume Scoring System
-🚀 Integration with LinkedIn API
 
-
-## 🤝 Contributing
-Pull requests are welcome! Please ensure changes are well-documented.
-
-📧 For inquiries, contact: ogechifaith78@gmail.com
