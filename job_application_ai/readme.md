@@ -57,3 +57,8 @@ python main.py
 🚀 Automated Email Follow-ups
 🚀 Enhanced Resume Scoring System
 🚀 Integration with LinkedIn API
+
+## 🤝 Contributing
+Pull requests are welcome! Please ensure changes are well-documented.
+
+📧 For inquiries, contact: ogechifaith78@gmail.com
