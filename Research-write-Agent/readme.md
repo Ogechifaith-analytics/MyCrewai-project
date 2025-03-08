@@ -1,4 +1,4 @@
-# Research Write Agent
+# Content creation Agent
 
 An AI-powered multi-agent system built with Python and CrewAI to automate the content creation process. This project coordinates multiple agents—Content Planner, Content Writer, and Editor—to generate, refine, and finalize engaging and factually accurate blog posts.
 
